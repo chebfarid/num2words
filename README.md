@@ -21,3 +21,5 @@ In order to import the Add-on and its support files into one of your FileMaker p
 Windows: C:\Users\[username]\AppData\Local\FileMaker\Extensions\AddonModules
 
 OSX: [username]/Library/Application Support/FileMaker/Extensions/AddonModules
+
+More information: https://medium.com/@chebfarid_4023/how-to-create-and-implement-your-own-filemaker-add-on-9295db83edf6
